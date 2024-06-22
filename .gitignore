@@ -1,5 +1,6 @@
 # Virtual Environment
-./myVenv
+myVenv/
+myVenv/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
