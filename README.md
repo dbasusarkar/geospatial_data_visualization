@@ -2,11 +2,11 @@
 ---
 
 <br/>
-![](./world_map.boundary.plot.png)
+![](./images/world_map.boundary.plot.png)
 
 <br/>
-![](./world_map.boundary.png)
+![](./images/world_map.boundary.png)
 
 <br/>
-![](./world_map.plot.png)
+![](./images/world_map.plot.png)
 
